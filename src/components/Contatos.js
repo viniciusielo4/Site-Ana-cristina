@@ -59,7 +59,7 @@ const Contato = () => {
 
           {/* Instagram */}
           <a
-            href="https://instagram.com/@Anacrielo"
+            href="https://www.instagram.com/anacrisielo/"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-white/10 backdrop-blur-lg rounded-2xl p-8 border border-white/20 hover:bg-white/15 hover:border-amber-400/50 transition-all transform hover:scale-105 cursor-pointer"
