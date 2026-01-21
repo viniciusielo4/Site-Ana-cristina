@@ -71,7 +71,7 @@ const Contato = () => {
               <div>
                 <h3 className="text-2xl font-bold text-white mb-2">Instagram</h3>
                 <p className="text-amber-400 font-medium text-lg group-hover:text-amber-300 transition-colors">
-                  @Anacrielo
+                  @anacrisielo
                 </p>
               </div>
             </div>
